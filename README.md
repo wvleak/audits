@@ -9,7 +9,7 @@ A compilation of my findings in audit contests
 # October 2023
 ## [Work in progress] ENS
 Contest link: [code4rena.com](https://code4rena.com/contests/2023-10-ens#top) <br>
-Repository: 
+Repository: https://github.com/code-423n4/2023-10-ens
 # July 2023
 ## PoolTogether
 Contest link: [code4rena.com](https://code4rena.com/contests/2023-07-pooltogether#top) <br>
