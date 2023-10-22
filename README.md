@@ -7,7 +7,7 @@ A compilation of my findings in audit contests
 <p align="left"> <a href="https://twitter.com/wvleak" target="blank"><img src="https://img.shields.io/twitter/follow/wvleak?logo=twitter&style=for-the-badge" alt="wvleak" /></a> </p>
 
 # October 2023
-## [Work in progress] ENS
+## [In judgement] ENS
 Contest link: [code4rena.com](https://code4rena.com/contests/2023-10-ens#top) <br>
 Repository: https://github.com/code-423n4/2023-10-ens
 # July 2023
